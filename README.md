@@ -1,7 +1,9 @@
 # Discrete-optimisation-FSR-2026
 
 Each subdirectory works as an independent project that can be compiled and launched as follows:
+
 g++ main.cpp locsearch.h locsearch.cpp -o main
+
 ./main
 
 ## Knapsack
